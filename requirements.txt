@@ -1,0 +1,16 @@
+fastapi[standard]
+appdirs
+torch
+transformers
+openai
+huggingface_hub
+aiohttp
+aiofiles
+x-transformers
+torchaudio
+torchdiffeq
+vocos
+pydub
+torchaudio
+pyaudio
+SpeechRecognition
